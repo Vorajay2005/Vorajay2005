@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- Avatar -->
-<img src="https://github.com/Vorajay2005/Vorajay2005/raw/main/avatar.png" width="320" alt="Jay Vora"/>
-
-<br/>
-
-# Jay Vora
-### Software Engineer | AI/ML | Backend Systems
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jay%20Vora&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20Systems&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">

@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- Name + Title -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f0c29,50:302b63,100:24243e&height=120&text=Jay%20Vora&fontSize=80&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20Systems&descColor=a78bfa&descAlignY=80&animation=fadeIn" />
+# Jay Vora
+### Software Engineer | AI/ML | Backend Systems
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">

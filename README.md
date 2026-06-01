@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jay%20Vora&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20Systems&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
-
 <!-- Avatar -->
-<img src="https://github.com/Vorajay2005/Vorajay2005/raw/main/avatar.png" width="180" style="border-radius: 50%; border: 3px solid #a78bfa;" alt="Jay Vora"/>
+<img src="https://github.com/Vorajay2005/Vorajay2005/raw/main/avatar.png" width="320" alt="Jay Vora"/>
+
+<br/>
+
+<!-- Name + Title -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f0c29,50:302b63,100:24243e&height=120&text=Jay%20Vora&fontSize=80&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20Systems&descColor=a78bfa&descAlignY=80&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">

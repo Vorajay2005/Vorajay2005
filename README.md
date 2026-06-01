@@ -123,9 +123,9 @@ class JayVora:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vorajay2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vorajay2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorajay2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vorajay2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
 
 <br/>
 

@@ -3,6 +3,9 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jay%20Vora&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20Systems&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
+<!-- Avatar -->
+<img src="https://github.com/Vorajay2005/Vorajay2005/raw/main/avatar.png" width="180" style="border-radius: 50%; border: 3px solid #a78bfa;" alt="Jay Vora"/>
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+%26+AI+Systems;Python+%7C+FastAPI+%7C+AWS+%7C+Docker;Open+to+SWE+%26+AI%2FML+Internships+2026" alt="Typing SVG" />
@@ -26,7 +29,7 @@
 class JayVora:
     def __init__(self):
         self.university  = "Rutgers University – B.S. Computer Science (Honors) '27"
-        self.gpa         = "3.75 | Dean's List ×5"
+        self.gpa         = "3.785 | Dean's List ×6"
         self.focus       = ["Scalable Backend Systems", "AI/ML Infrastructure", "Cloud Architecture"]
         self.seeking     = "SWE / AI/ML Internship – Summer 2026"
         self.location    = "New Brunswick, NJ"
@@ -137,7 +140,7 @@ class JayVora:
 
 ## 🏆 Highlights
 
-| 🎓 Rutgers Honors College | 3.75 GPA · Dean's List ×5 |
+| 🎓 Rutgers Honors College | 3.785 GPA · Dean's List ×6 |
 |---|---|
 | 🏆 HackRU Winner | Top 5% — Terraform Track |
 | 🚀 HackPrinceton | Deployed live AI demo |
